@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22117892-4262-4173-9fad-5f61e62709f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/assets/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/components/Navbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/layouts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/layouts/default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/middleware/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/nuxt.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/pages/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/pages/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/plugins/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/static/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lara_nuxt_frontend/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -55,8 +36,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/components/Navbar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/layouts/default.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -80,6 +70,7 @@
         <option value="$PROJECT_DIR$/lara_nuxt_frontend/nuxt.config.js" />
         <option value="$PROJECT_DIR$/lara_nuxt_frontend/pages/index.vue" />
         <option value="$PROJECT_DIR$/lara_nuxt_frontend/components/Logo.vue" />
+        <option value="$PROJECT_DIR$/lara_nuxt_frontend/layouts/default.vue" />
         <option value="$PROJECT_DIR$/lara_nuxt_frontend/components/Navbar.vue" />
       </list>
     </option>
@@ -182,11 +173,6 @@
             <path>
               <item name="lara_nuxt" type="b2602c69:ProjectViewProjectNode" />
               <item name="lara_nuxt" type="462c0819:PsiDirectoryNode" />
-              <item name="lara_nuxt_backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lara_nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lara_nuxt" type="462c0819:PsiDirectoryNode" />
               <item name="lara_nuxt_frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,6 +180,12 @@
               <item name="lara_nuxt" type="462c0819:PsiDirectoryNode" />
               <item name="lara_nuxt_frontend" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lara_nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lara_nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="lara_nuxt_frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lara_nuxt" type="b2602c69:ProjectViewProjectNode" />
@@ -245,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547660181935</updated>
-      <workItem from="1547660183480" duration="4590000" />
+      <workItem from="1547660183480" duration="5763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4590000" />
+    <option name="totallyTimeSpent" value="5763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -258,12 +250,12 @@
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
@@ -322,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -333,10 +325,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lara_nuxt_frontend/components/Navbar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
