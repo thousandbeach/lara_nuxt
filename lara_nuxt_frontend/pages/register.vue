@@ -23,7 +23,7 @@
         <label class="form-check-label" for="exampleCheck1">Remember me</label>
       </div><br><br>
       <div class="form-group">
-        <p><button type="submit" class="btn btn-primary">ログイン
+        <p><button type="submit" class="btn btn-primary">サインアップ
         </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;アカウントをお持ちでない方は<nuxt-link to="/register">こちら</nuxt-link></p>
       </div>
     </form><br>
